@@ -1,0 +1,8 @@
+* Serenity bdd ayuda a escribir pruebas automatizadas de forma sencilla y mantenible.
+
+* Se ejecuta correctamente el escenario de prueba permitiendo a un cliente realizar la compra de dos productos
+en el sitio https://www.demoblaze.com/; ejecutado mediante serenity bdd, cucumber, gradle.
+
+* Los reportes se generan con la libreria propia de Serenity este reporte es completo, intuitivo y adicionalemnte hace captura de pantallas de la ejecucion esto podemos configurar en el archivo serenity.conf "take.screenshots".
+
+* Serenity permite realizar pruebas automatizadas de forma correcta teniendo un control de los errores y procesos ejecutados.
